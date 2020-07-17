@@ -1,2 +1,2 @@
 # pdns
-PowerDNS using PostgreSQL Backend
+PowerDNS docker image  using PostgreSQL Backend based on alpine
